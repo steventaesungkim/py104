@@ -1,7 +1,5 @@
 #Building a triangle with a determine height
 
-
-
 #7x5
 y = 0
 while y <= 6:
