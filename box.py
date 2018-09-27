@@ -22,8 +22,7 @@ while y <= last_height:
             x += 1
     y += 1
     print()
-
-
+print()
 
 #Reference - 5x5 
 # y = 0
